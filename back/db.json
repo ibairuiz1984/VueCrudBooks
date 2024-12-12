@@ -1,0 +1,148 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "Una novela distópica sobre un régimen totalitario.",
+      "genre": "Ciencia ficción",
+      "cover": "https://imagessl2.casadellibro.com/a/l/s7/62/9788466357562.webp",
+      "read": true
+    },
+    {
+      "id": "2",
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "description": "La saga de la familia Buendía en Macondo.",
+      "genre": "Realismo mágico",
+      "cover": "https://imagessl1.casadellibro.com/a/l/s7/31/9788466373531.webp",
+      "read": false
+    },
+    {
+      "id": "3",
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "description": "Un relato sobre la amistad y la imaginación.",
+      "genre": "Ficción",
+      "cover": "https://imagessl0.casadellibro.com/a/l/s7/00/9788478887200.webp",
+      "read": false
+    },
+    {
+      "id": "4",
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "description": "Una historia de amor y sociedad en la Inglaterra del siglo XIX.",
+      "genre": "Romance",
+      "cover": "https://imagessl8.casadellibro.com/a/l/s7/88/9788484284888.webp",
+      "read": false
+    },
+    {
+      "id": "5",
+      "title": "Crimen y castigo",
+      "author": "Fiódor Dostoyevski",
+      "description": "Un análisis psicológico del crimen y el remordimiento.",
+      "genre": "Ficción",
+      "cover": "https://imagessl8.casadellibro.com/a/l/s7/88/9788413625188.webp",
+      "read": false
+    },
+    {
+      "id": "6",
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "description": "Las aventuras del caballero andante Don Quijote.",
+      "genre": "Clásico",
+      "cover": "https://imagessl5.casadellibro.com/a/l/s7/35/9788423355235.webp",
+      "read": false
+    },
+    {
+      "id": "7",
+      "title": "La Odisea",
+      "author": "Homero",
+      "description": "La épica historia de Ulises y su regreso a casa.",
+      "genre": "Épica",
+      "cover": "https://imagessl5.casadellibro.com/a/l/s7/25/9788428551625.webp",
+      "read": false
+    },
+    {
+      "id": "8",
+      "title": "El Gran Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "Un relato sobre el sueño americano y la decadencia moral.",
+      "genre": "Ficción",
+      "cover": "https://imagessl3.casadellibro.com/a/l/s7/63/9788433976963.webp",
+      "read": false
+    },
+    {
+      "id": "9",
+      "title": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "description": "Una poderosa historia sobre la injusticia racial.",
+      "genre": "Ficción",
+      "cover": "https://imagessl2.casadellibro.com/a/l/s7/32/9780063026032.webp",
+      "read": false
+    },
+    {
+      "id": "10",
+      "title": "Los miserables",
+      "author": "Victor Hugo",
+      "description": "La vida de varios personajes en la Francia del siglo XIX.",
+      "genre": "Ficción histórica",
+      "cover": "https://imagessl8.casadellibro.com/a/l/s7/48/9788491054948.webp",
+      "read": false
+    },
+    {
+      "id": "11",
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "description": "El comienzo de las aventuras de Harry Potter en Hogwarts.",
+      "genre": "Fantasía",
+      "cover": "https://imagessl2.casadellibro.com/a/l/s7/52/9788478884452.webp",
+      "read": false
+    },
+    {
+      "id": "12",
+      "title": "El Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "La historia de Bilbo Bolsón y su aventura con los enanos.",
+      "genre": "Fantasía",
+      "cover": "https://imagessl6.casadellibro.com/a/l/s7/46/9788445013946.webp",
+      "read": false
+    },
+    {
+      "id": "13",
+      "title": "La divina comedia",
+      "author": "Dante Alighieri",
+      "description": "Un viaje por el Infierno, el Purgatorio y el Paraíso.",
+      "genre": "Épica",
+      "cover": "https://imagessl3.casadellibro.com/a/l/s7/73/9788415014973.webp",
+      "read": false
+    },
+    {
+      "id": "14",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "description": "La historia de un científico y su creación.",
+      "genre": "Horror",
+      "cover": "https://imagessl1.casadellibro.com/a/l/s7/11/9788418008511.webp",
+      "read": false
+    },
+    {
+      "id": "15",
+      "title": "Drácula",
+      "author": "Bram Stoker",
+      "description": "La novela que introdujo al icónico vampiro.",
+      "genre": "Horror",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8lhmHOBp6E6g0eisZ6-C8YRTvYTrESJ8JA&s",
+      "read": false
+    },
+    {
+      "id": "e476",
+      "title": "Theodoros",
+      "author": "Mircea Cartarescu",
+      "description": "Un ejercicio de pura libertad literaria, una obra torrencial, libérrima, exuberante, inclasificable. Una novela épica que va desde lo realista hasta lo fantasmagórico.",
+      "genre": "Ficción",
+      "cover": "https://impedimenta.es/wp-content/uploads/9788419581655_THEODOROS_CARTARESCU_RGB-scaled.jpg",
+      "read": false
+    }
+  ]
+}
